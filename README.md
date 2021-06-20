@@ -43,4 +43,4 @@ for example:
 should return `Just [2]`
 
 ## Samples
-two samples are provided Samples.hs, both calculating n-th Fibonacci number.
+two samples are provided Sample.hs, both calculating n-th Fibonacci number.
